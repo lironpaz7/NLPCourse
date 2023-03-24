@@ -1,0 +1,21 @@
+At iterate    0    f=  7.02910D+04    |proj g|=  1.03571D+03
+
+At iterate   10    f=  2.27649D+04    |proj g|=  1.74040D+02
+
+At iterate   20    f=  4.04250D+03    |proj g|=  5.01356D+01
+
+At iterate   30    f=  1.00842D+03    |proj g|=  4.05073D+01
+
+At iterate   40    f=  6.54059D+02    |proj g|=  2.23750D+00
+
+At iterate   50    f=  6.24651D+02    |proj g|=  3.25204D+00
+
+At iterate   60    f=  6.22326D+02    |proj g|=  2.45439D-01
+
+At iterate   70    f=  6.22118D+02    |proj g|=  2.83532D-01
+
+At iterate   80    f=  6.22105D+02    |proj g|=  4.20147D-02
+
+At iterate   90    f=  6.22103D+02    |proj g|=  4.71633D-03
+
+At iterate  100    f=  6.22103D+02    |proj g|=  5.60630D-03
